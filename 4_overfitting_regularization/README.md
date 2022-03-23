@@ -1,1 +1,1 @@
-# rs_school_ml_intro_2022q1_overfitting_regularization
+# The fourth task of the "Introduction to Machine Learning" RS School course
