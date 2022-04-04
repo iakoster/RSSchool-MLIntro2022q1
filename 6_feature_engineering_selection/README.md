@@ -1,1 +1,1 @@
-# rs_school_ml_intro_2022q1_feature_engineering_selection
+# The sixth task of the "Introduction to Machine Learning" RS School course
