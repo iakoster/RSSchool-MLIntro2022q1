@@ -7,6 +7,7 @@ RANDOM_STATE = 2020
 
 def create_datasets():
     """Create train and test datasets from the same distribution
+
     Returns:
         (np.array, np.array, np.array, np.array):
             A tuple (X_train, X_test, y_train, y_test)
@@ -19,6 +20,7 @@ def create_datasets():
 
 def sum_up_tree_values(tree, field):
     """Perform depth first search across the tree and sum up values of requested fields
+
     Args:
         tree: Tree
             Tree to traverse
@@ -40,6 +42,7 @@ def sum_up_tree_values(tree, field):
 
 def sum_up_forest_values(forest, field):
     """Sums up values of requested field in all the trees of a firest
+
     Args:
         forest: RandomForestClassifier
             Random Forest to go through
