@@ -23,6 +23,3 @@ rss_venv/
 
 # PyCharm settings
 .idea/
-
-# Data
-/data/
