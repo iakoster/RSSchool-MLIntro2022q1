@@ -15,3 +15,4 @@ rss_venv/
 
 # Data
 database.sqlite
+data/

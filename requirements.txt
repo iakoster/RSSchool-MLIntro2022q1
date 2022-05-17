@@ -1,5 +1,9 @@
 numpy
+scipy
 pandas
 jupyter
+matplotlib
 seaborn
 sklearn
+missingno
+boruta
