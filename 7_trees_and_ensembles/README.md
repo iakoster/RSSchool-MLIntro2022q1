@@ -1,4 +1,4 @@
-# The seventh task of the "Introduction to Machine Learning" RS School course
+# The seventh task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/7_trees_and_ensembles) RS School course
 
 # Materials
 

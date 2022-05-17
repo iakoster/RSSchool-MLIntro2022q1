@@ -1,5 +1,4 @@
-# The eighth task of the "Introduction to Machine Learning" RS School course
-[SOURCE](https://github.com/rolling-scopes-school/ml-intro)
+# The eighth task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/8_clustering) RS School course
 
 # Materials
 

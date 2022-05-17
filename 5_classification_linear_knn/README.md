@@ -1,4 +1,4 @@
-# The fifth task of the "Introduction to Machine Learning" RS School course
+# The fifth task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/5_classification_linear_knn) RS School course
 
 # Materials
 

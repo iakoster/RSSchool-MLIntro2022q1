@@ -1,4 +1,4 @@
-# The second task of the "Introduction to Machine Learning" RS School course
+# The second task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/1_data_manipulations) RS School course
 
 # Title
 Introduction to the Pandas library.
@@ -23,4 +23,4 @@ Introduction to the Pandas library.
 - https://www.kaggle.com/learn/pandas
 
 # Assignments
-[Pandas_data_manipulations.ipynb](./Pandas_data_manipulations_tasks.ipynb)
+[Pandas_data_manipulations.ipynb](./Pandas_data_manipulations.ipynb)

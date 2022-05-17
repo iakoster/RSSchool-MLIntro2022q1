@@ -1,4 +1,4 @@
-# The second task of the "Introduction to Machine Learning" RS School course
+# The second task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/2_data_exploration) RS School course
 
 - Data exploration was performed using these [data (train.csv)](https://www.kaggle.com/c/tabular-playground-series-apr-2021/data)
 

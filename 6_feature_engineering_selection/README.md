@@ -1,4 +1,4 @@
-# The sixth task of the "Introduction to Machine Learning" RS School course
+# The sixth task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/6_feature_engineering_selection) RS School course
 
 # Materials    
 

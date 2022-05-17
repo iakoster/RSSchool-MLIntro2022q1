@@ -1,4 +1,4 @@
-# The fourth task of the "Introduction to Machine Learning" RS School course
+# The fourth task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/4_overfitting_regularization) RS School course
 
 # Materials
 

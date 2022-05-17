@@ -1,4 +1,4 @@
-# The third task of the "Introduction to Machine Learning" RS School course
+# The third task of the ["Introduction to Machine Learning"](https://github.com/rolling-scopes-school/ml-intro/tree/2022/3_linear_regression) RS School course
 
 # Title
 Линейная регрессия и визуализация данных.
