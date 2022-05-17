@@ -12,3 +12,6 @@ rss_venv/
 
 # PyCharm settings
 .idea/
+
+# Data
+database.sqlite
